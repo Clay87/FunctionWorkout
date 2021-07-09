@@ -1,0 +1,45 @@
+	Function Workout Program
+
+	Five double Values
+		8.243
+		15.582
+		9.732
+		16.513
+		5.826
+
+	Sum of FIVE Numbers
+		55.896
+
+	Average of the Numbers
+		11.179
+
+	Difference between FIRST and THIRD
+		-1.489
+
+	Difference between SECOND and FOURTH
+		-0.931
+
+	Square of the FIRST and THIRD
+		822,890,669.606		//Comma's added for readability.
+
+	Square of the SECOND and FIFTH
+		8,876,111.789
+
+	Largest of the FIVE NUMBERS
+		16.513
+
+	Smallest of the FIVE NUMBERS
+		5.826
+
+	Average of FOUR LARGEST
+		12.518
+
+	Average of FOUR SMALLEST
+		9.846
+
+	RUNNING TOTAL
+		8.243
+		23.825
+		33.557
+		50.070
+		55.896
